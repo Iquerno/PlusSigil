@@ -1,0 +1,16 @@
+'Plus Sigils' is my second attempt at making mods. After giving up on MagicPlus I decided to make this abomination.
+
+Basically, this mod adds items increasing the difficulty of the game; these range from capping your
+HP or Speed to removing critical hits to making bosses be much faster and stronger than ever.
+
+To keep you from suffering from these challenges, this also adds some helpful items, such as crystals
+increasing your defense, speed, mana and health above their normal caps.
+(might not be balanced with other mods doing the same thing)
+
+As of version 1.0.1:
+
+- 100/10 HP Sigils; permamently caps your health at 10 or 100 HP.
+- Mana Nullifier Sigil; removes your mana completely.
+
+-- With love (jk),
+Iquerno <3
